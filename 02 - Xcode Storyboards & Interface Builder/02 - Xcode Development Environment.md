@@ -1,0 +1,2 @@
+
+- lecture about exploring different sections of xcode, different panes and what their use is, and how they can be collapsed, a new debug menu pane that opens up using a shortcut / option in the menu, and so on
