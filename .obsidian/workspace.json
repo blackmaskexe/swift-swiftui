@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bb13485048c62574",
+        "id": "adaa1fc3fd98e947",
         "type": "split",
         "children": [
           {
@@ -23,8 +23,8 @@
                       "iconI18nKey": "asset:generic.documentations.readme-icon"
                     }
                   },
-                  "icon": "lucide-file",
-                  "title": "Plugin no longer active"
+                  "icon": "file-question",
+                  "title": "Readme"
                 }
               },
               {
@@ -33,30 +33,30 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02 - Xcode Storyboards & Interface Builder/03 - Designing UI in Storyboard.md",
+                    "file": "02 - Xcode Storyboards & Interface Builder/05 - Running App.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "03 - Designing UI in Storyboard"
+                  "title": "05 - Running App"
                 }
               }
             ],
             "currentTab": 1
           },
           {
-            "id": "68cd72ebd5c08da2",
+            "id": "6e0349edffe69d6b",
             "type": "tabs",
             "children": [
               {
-                "id": "c17ba16f729c8cd4",
+                "id": "2fa278938461b852",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "terminal:terminal",
                   "state": {
                     "terminal:terminal": {
-                      "cwd": "/Users/xst-sneh8805/Gramming/obsidian-vaults/swift-swiftui",
+                      "cwd": "/Users/prathams/Gramming/swift-swiftui/swift-switfui-vault",
                       "focus": false,
                       "profile": {
                         "args": [],
@@ -235,24 +235,24 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c17ba16f729c8cd4",
+  "active": "2fa278938461b852",
   "lastOpenFiles": [
+    "02 - Xcode Storyboards & Interface Builder/05 - Running App.md",
+    "00 - Attachments/Xcode Sideloading Troubleshooting (1).pdf",
+    "02 - Xcode Storyboards & Interface Builder/04 - Designing and Adding Custom App Icon.md",
     "02 - Xcode Storyboards & Interface Builder/03 - Designing UI in Storyboard.md",
-    "Pasted image 20250707154424.png",
-    "Pasted image 20250707154159.png",
+    "00 - Attachments/Udemy ScreenShot 2025-07-07 23-58-10.jpeg",
     "02 - Xcode Storyboards & Interface Builder/02 - Xcode Development Environment.md",
     "02 - Xcode Storyboards & Interface Builder/01 - Creating an Xcode Projects.md",
-    "02 - Xcode Storyboards & Interface Builder/projects/I Am Rich App/I Am Rich App.xcodeproj/xcuserdata/xst-sneh8805.xcuserdatad/xcschemes/xcschememanagement.plist",
-    "02 - Xcode Storyboards & Interface Builder/projects/I Am Rich App/I Am Rich App.xcodeproj/xcuserdata/xst-sneh8805.xcuserdatad/xcschemes",
-    "02 - Xcode Storyboards & Interface Builder/projects/I Am Rich App/I Am Rich App.xcodeproj/xcuserdata/xst-sneh8805.xcuserdatad",
-    "02 - Xcode Storyboards & Interface Builder/projects/I Am Rich App/I Am Rich App.xcodeproj/xcuserdata",
-    "02 - Xcode Storyboards & Interface Builder/projects/I Am Rich App/I Am Rich App.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/configuration",
-    "02 - Xcode Storyboards & Interface Builder/projects/I Am Rich App/I Am Rich App.xcodeproj/project.xcworkspace/xcshareddata/swiftpm",
-    "02 - Xcode Storyboards & Interface Builder/projects/I Am Rich App/I Am Rich App.xcodeproj/project.xcworkspace/xcshareddata",
-    "02 - Xcode Storyboards & Interface Builder/projects/I Am Rich App/I Am Rich App.xcodeproj/project.xcworkspace/xcuserdata/xst-sneh8805.xcuserdatad/UserInterfaceState.xcuserstate",
-    "02 - Xcode Storyboards & Interface Builder/projects/I Am Rich App/I Am Rich App.xcodeproj/project.xcworkspace/xcuserdata/xst-sneh8805.xcuserdatad",
-    "02 - Xcode Storyboards & Interface Builder/projects/I Am Rich App/I Am Rich App.xcodeproj/project.xcworkspace/xcuserdata",
+    "00 - Attachments/Pasted image 20250707154424.png",
+    "00 - Attachments/Pasted image 20250707154159.png",
+    "02 - Xcode Storyboards & Interface Builder/projects/I Am Rich App",
+    "02 - Xcode Storyboards & Interface Builder/projects",
+    "02 - Xcode Storyboards & Interface Builder",
     "00 - Attachments/Pasted image 20250707152210.png",
+    "00 - Attachments",
+    "README.md",
+    "01 - Getting Started",
     "Welcome.md"
   ]
 }
