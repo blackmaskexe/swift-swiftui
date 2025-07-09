@@ -17,4 +17,4 @@
 - note that you must connect using wire atleast once
 - connect to same wifi
 - go to `Wiindow -> Devices & Simulators -> Connect via Network`
-- noo when selecting a device, the phone will be visible as a valid option
+-  when selecting a device, the phone will be visible as a valid option
