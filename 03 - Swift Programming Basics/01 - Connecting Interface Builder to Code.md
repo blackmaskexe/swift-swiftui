@@ -5,7 +5,7 @@
 2. press control on the element, drag it onto the code section
 3. it will automatically prompt you to connect the two things together (connect code with interface builder)
 
-![[../Pasted image 20250709000513.png]]
+![[Pasted image 20250709000513.png]]
 
 ## Programmatically changing the properties of linked elements
 - you can look at the names of the properties of the element in the Attributes tab (on the right side of the screen in the above image)

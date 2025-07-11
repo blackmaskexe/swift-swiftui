@@ -18,6 +18,7 @@ I don't hang with rats, that's a new typeshi
 ## Strings:
 - convention is to use double quotes `"String"`
 - strings can be printed using `print(String)`
+- strings can be concatenated using the `+` operator
 
 ## Xcode Playground:
 `File -> New -> Playground -> blank iOS template`
