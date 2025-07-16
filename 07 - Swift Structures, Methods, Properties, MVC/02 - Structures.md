@@ -2,6 +2,8 @@
 - help us create custom datatypes
 - it is a blueprint for an object that will be created (chhapri ahh version of classes)
 	- this blueprint contains properties and methods
+- it is recommended that you create structures in a new swift file
+	- convention: same file name as the name of the structure
 
 ## Defining a Structure:
 ```swift
@@ -58,4 +60,10 @@ var myTown = Town(townName: "Kiss Land", people: ["The Weeknd", "Drake", "Drake'
 theTown.whereDoYouDeserveYourName.append("Everywhere demn")
 
 
+```
+
+## Using Struct Declared in a Different File:
+- simply initialize the struct as you would if it were in the same file
+```swift
+let object = MyStruct()
 ```
