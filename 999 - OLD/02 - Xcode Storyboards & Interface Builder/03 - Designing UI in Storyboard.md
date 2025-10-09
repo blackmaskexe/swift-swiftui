@@ -1,7 +1,7 @@
 
 ## Different Files and What They Do in a Storyboard Project:
 
-![[../00 - Attachments/Pasted image 20250707154159.png]]
+![[Pasted image 20250707154159.png]]
 
 
 #### 1\. LaunchScreen.storyboard:
@@ -11,7 +11,7 @@
 
 ## Use these controls to switch up the behavior of the Storyboard Preview:
 
-![[../00 - Attachments/Pasted image 20250707154424.png]]
+![[Pasted image 20250707154424.png]]
 - change the following:
 	- accessibility settings
 	- dark and light mode
@@ -21,7 +21,7 @@
 ## Positioning in Story Board:
 - it is according to points, and not the resolution of the phone
 - for a comprehensive list of points and resolutions, visit [PaintCode](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
-	![[../00 - Attachments/Udemy ScreenShot 2025-07-07 23-58-10.jpeg]]
+	![[Udemy ScreenShot 2025-07-07 23-58-10.jpeg]]
 
 
 ## Image View:

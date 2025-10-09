@@ -1,6 +1,6 @@
 
 ## Debugging Flowchart for Apps Failing to Run:
-![[../00 - Attachments/Xcode Sideloading Troubleshooting (1).pdf]]
+![[Xcode Sideloading Troubleshooting (1).pdf]]
 
 ## Running on Simulator:
 1. Select device from the top of the xcode window

@@ -27,3 +27,6 @@ if smartness != nil {
 	print(smartness!)
 }
 ```
+
+## ==All values from a dictionary are Optionals==:
+- when dealing with dictionaries, you must force them to an unwrapped / non-optional datatype
