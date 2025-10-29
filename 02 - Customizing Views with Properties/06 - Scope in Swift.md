@@ -28,7 +28,6 @@
 	    image: "Shot",
 	    name: "Tory Lanez Enjoyer",
 	    story: "A story can be about anything you can dream up. There are no right answers, there is no one else.\n\nNeed some inspiration?\n• 🐶🐱🛶️🎭🎤🎧🎸\n• 🏄‍♀️🚵‍♀️🚴‍♀️⛵️🥾🏂⛷📚\n• ✍️🥖☕️🏋️‍♂️🚲🧗‍♀️ ",
-	    ]
 	)
 	```
 	- the above can be accessed from any part of the app (doesn't matter if it's in a subfolder or anything like that):
